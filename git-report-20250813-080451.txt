@@ -1,0 +1,7 @@
+Category: beepmedia
+Repository: beepmedia/mcp/mcp-dev/mcp-pdf-reader
+Full path: /Users/andreihasna/Dev/beepmedia/mcp/mcp-dev/mcp-pdf-reader
+
+  • Has uncommitted changes
+Push successful: false
+---
